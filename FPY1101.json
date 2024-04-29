@@ -11,6 +11,14 @@
     {
       "docente": "Oscar San Martin",
       "numero" : 12
-    }
+    },
+    {
+      "docente": "Mauricio Henriquez",
+      "numero" : 7
+    },
+    {
+      "docente": "Mauricio Henriquez",
+      "numero" : 8
+    }        
   ]
 }
