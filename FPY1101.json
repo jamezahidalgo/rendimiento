@@ -19,6 +19,14 @@
     {
       "docente": "Mauricio Henriquez",
       "numero" : 8
-    }        
+    },  
+    {
+      "docente": "Rodolfo Fernandez",
+      "numero" : 2
+    },
+    {
+      "docente": "Rodolfo Fernandez",
+      "numero" : 4
+    }      
   ]
 }
