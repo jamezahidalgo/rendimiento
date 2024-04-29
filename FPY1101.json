@@ -1,0 +1,15 @@
+{
+  "asignatura": "Fundamentos de programacion",
+  "sigla": "FPY1101",
+  "items_evaluacion": 8,
+  "secciones": [
+    {
+      "docente": "Alejandro Sepulveda",
+      "numero" : 3
+    },
+    {
+      "docente": "Oscar San Martin",
+      "numero" : 12
+    }
+  ]
+}
