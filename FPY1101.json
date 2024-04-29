@@ -1,6 +1,7 @@
 {
   "asignatura": "Fundamentos de programacion",
   "sigla": "FPY1101",
+  "csv" : "FPY0100-E1.csv",
   "items_evaluacion": 8,
   "secciones": [
     {
