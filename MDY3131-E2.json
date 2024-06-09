@@ -19,6 +19,10 @@
     {
       "docente": "Jazna Meza",
       "numero" : 5
-    } 
+    },
+    {
+      "docente": "Mabel Herrera",
+      "numero" : 6
+    }      
   ]
 }
