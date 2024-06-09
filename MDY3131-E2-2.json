@@ -1,8 +1,8 @@
 {
   "asignatura": "Programacion de BD",
   "sigla": "MDY3131",
-  "csv" : "MDY3131-E2-1.csv",
-  "items_evaluacion": 7,
+  "csv" : "MDY3131-E2-2.csv",
+  "items_evaluacion": 2,
   "secciones": [
     {
       "docente": "Jazna Meza",
