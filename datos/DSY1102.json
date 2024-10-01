@@ -1,7 +1,7 @@
 {
   "asignatura": "Desarrollo Orientado a objetos",
   "sigla": "DSY1102",
-  "source" : ["DSY1102-E1-B.csv"]
+  "source" : ["DSY1102-E1-B.csv"],
   "items_evaluacion": [32, 30],
   "secciones": [
     {
