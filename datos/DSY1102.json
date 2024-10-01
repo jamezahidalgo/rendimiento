@@ -1,0 +1,28 @@
+{
+  "asignatura": "Desarrollo Orientado a objetos",
+  "sigla": "DSY1102",
+  "source" : ["DSY1102-E1-B.csv"]
+  "items_evaluacion": [32, 30],
+  "secciones": [
+    {
+      "docente": "Alejandro Sepulveda",
+      "numero" : 1
+    },
+    {
+      "docente": "Oscar San Martin",
+      "numero" : 4
+    },
+    {
+      "docente": "Yasna Leon",
+      "numero" : 3
+    },
+    {
+      "docente": "Leonardo Hernandez",
+      "numero" : 2
+    },  
+    {
+      "docente": "Alejandro Sepulveda",
+      "numero" : 5
+    }       
+  ]
+}
